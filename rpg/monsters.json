@@ -1,0 +1,207 @@
+{
+    "monsters": [
+        {
+            "name": "Goblin",
+            "description": "A small and sneaky creature.",
+            "health": 30,
+            "damage": 5,
+            "difficulty": "easy"
+        },
+        {
+            "name": "Orc",
+            "description": "A large and brutish creature.",
+            "health": 50,
+            "damage": 10,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Dragon",
+            "description": "A mighty creature with fire breath.",
+            "health": 100,
+            "damage": 20,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Skeleton",
+            "description": "A reanimated skeleton warrior.",
+            "health": 35,
+            "damage": 7,
+            "difficulty": "easy"
+        },
+        {
+            "name": "Troll",
+            "description": "A slow but powerful creature.",
+            "health": 60,
+            "damage": 12,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Vampire",
+            "description": "A bloodthirsty night stalker.",
+            "health": 70,
+            "damage": 15,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Werewolf",
+            "description": "A ferocious beast that attacks under the full moon.",
+            "health": 80,
+            "damage": 18,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Lich",
+            "description": "A powerful undead sorcerer.",
+            "health": 90,
+            "damage": 22,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Zombie",
+            "description": "A slow but relentless undead.",
+            "health": 40,
+            "damage": 6,
+            "difficulty": "easy"
+        },
+        {
+            "name": "Ogre",
+            "description": "A massive brute with a thick skull.",
+            "health": 65,
+            "damage": 14,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Basilisk",
+            "description": "A serpent capable of turning foes to stone.",
+            "health": 85,
+            "damage": 20,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Chimera",
+            "description": "A fearsome beast with the heads of a lion, goat, and dragon.",
+            "health": 90,
+            "damage": 19,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Harpy",
+            "description": "A vicious winged creature that strikes from the sky.",
+            "health": 45,
+            "damage": 8,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Minotaur",
+            "description": "A half-man, half-bull creature.",
+            "health": 70,
+            "damage": 16,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Giant Spider",
+            "description": "A venomous arachnid.",
+            "health": 50,
+            "damage": 10,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Hydra",
+            "description": "A multi-headed serpent that regenerates its heads.",
+            "health": 110,
+            "damage": 25,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Wraith",
+            "description": "A ghostly figure that drains life.",
+            "health": 55,
+            "damage": 12,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Gorgon",
+            "description": "A terrifying creature with snakes for hair.",
+            "health": 75,
+            "damage": 17,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Cyclops",
+            "description": "A giant with a single eye.",
+            "health": 80,
+            "damage": 20,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Dark Elf",
+            "description": "A cunning and agile warrior from the shadows.",
+            "health": 55,
+            "damage": 11,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Banshee",
+            "description": "A wailing spirit that brings death.",
+            "health": 40,
+            "damage": 9,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Ghoul",
+            "description": "A flesh-eating undead monster.",
+            "health": 35,
+            "damage": 7,
+            "difficulty": "easy"
+        },
+        {
+            "name": "Manticore",
+            "description": "A lion with a scorpion's tail that fires poisonous barbs.",
+            "health": 85,
+            "damage": 21,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Phoenix",
+            "description": "A legendary bird that rises from its ashes.",
+            "health": 90,
+            "damage": 18,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Kobold",
+            "description": "A small, lizard-like creature.",
+            "health": 25,
+            "damage": 4,
+            "difficulty": "easy"
+        },
+        {
+            "name": "Hellhound",
+            "description": "A ferocious beast with fiery breath.",
+            "health": 65,
+            "damage": 13,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Griffin",
+            "description": "A majestic creature with the body of a lion and the wings of an eagle.",
+            "health": 75,
+            "damage": 15,
+            "difficulty": "medium"
+        },
+        {
+            "name": "Frost Giant",
+            "description": "A towering giant from the frozen north.",
+            "health": 95,
+            "damage": 20,
+            "difficulty": "hard"
+        },
+        {
+            "name": "Elemental",
+            "description": "A powerful creature of pure fire, water, earth, or air.",
+            "health": 70,
+            "damage": 18,
+            "difficulty": "medium"
+        }
+    ]
+}

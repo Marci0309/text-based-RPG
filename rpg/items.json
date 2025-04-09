@@ -1,0 +1,69 @@
+{
+    "items": [
+        {
+            "name": "Health Potion",
+            "rarity": "common",
+            "effect_type": "health",
+            "value": 20,
+            "description": "A potion that heals you for 20 health points.",
+            "price": "It's free just for you"
+        },
+        {
+            "name": "Strong Health Potion",
+            "rarity": "rare",
+            "effect_type": "health",
+            "value": 35,
+            "description": "A potion that heals you for 35 health points.",
+            "price": "Lucky pull, it's free"
+        },
+        {
+            "name": "Damage Elixir",
+            "rarity": "common",
+            "effect_type": "damage",
+            "value": 5,
+            "description": "A potion that increases your damage by 5 points.",
+            "price": "It's free if you ask nicely"
+        },
+        {
+            "name": "Power Elixir",
+            "rarity": "rare",
+            "effect_type": "damage",
+            "value": 10,
+            "description": "A potion that increases your damage by 10 points.",
+            "price": "It's free if you can dance"
+        },
+        {
+            "name": "Epic Health Potion",
+            "rarity": "epic",
+            "effect_type": "health",
+            "value": 50,
+            "description": "An epic potion that heals you for 50 health points.",
+            "price": "It's free if you can do 2+2"
+        },
+        {
+            "name": "Epic Damage Elixir",
+            "rarity": "epic",
+            "effect_type": "damage",
+            "value": 20,
+            "description": "An epic potion that increases your damage by 20 points.",
+            "price": "It's free if you can do 2*2"
+        },
+        {
+            "name": "Legendary Health Potion",
+            "rarity": "legendary",
+            "effect_type": "health",
+            "value": 100,
+            "description": "A legendary potion that fully restores your health.",
+            "price": "It's free if you can do 2^2"
+        },
+        {
+            "name": "Legendary Damage Elixir",
+            "rarity": "legendary",
+            "effect_type": "damage",
+            "value": 50,
+            "description": "A legendary potion that greatly increases your damage by 50 points.",
+            "price": "It's free if you can do 2^3"
+            
+        }
+    ]
+}

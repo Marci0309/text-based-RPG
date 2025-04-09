@@ -1,0 +1,547 @@
+{
+    "npcs": [
+        {
+            "name": "Mila",
+            "description": "A cheerful herbalist.",
+            "dialogues": {
+                "Hello! What brings you here today?": {
+                    "options": {
+                        "I'm looking for some herbs.": [
+                            "I have the finest herbs in the village. What do you need?",
+                            "You should try my special remedy for headaches!"
+                        ],
+                        "Can you tell me about this place?": [
+                            "This village is known for its healing properties.",
+                            "The woods nearby are full of rare plants."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Alice",
+            "description": "A wise old woman.",
+            "dialogues": {
+                "What brings you here?": {
+                    "options": {
+                        "I’m searching for treasures.": [
+                            "Many have tried, but only a few have succeeded. Be cautious!",
+                            "There's an ancient cave to the east that might hold secrets."
+                        ],
+                        "Do you have any stories to share?": [
+                            "I've seen many things in my time. Let me tell you about the old castle.",
+                            "Ah, stories are like treasures; they are worth sharing!"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Charlie",
+            "description": "A skilled blacksmith.",
+            "dialogues": {
+                "Need some gear? I'm your man!": {
+                    "options": {
+                        "What do you have for sale?": [
+                            "I can forge weapons, armor, and anything you need.",
+                            "Come back when you have more materials!"
+                        ],
+                        "Can you teach me about forging?": [
+                            "It's hard work but rewarding! I can show you the basics.",
+                            "Only if you're ready to get your hands dirty!"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Daisy",
+            "description": "A curious child.",
+            "dialogues": {
+                "Do you want to play a game?": {
+                    "options": {
+                        "Sure, what game?": [
+                            "Let's play hide and seek! I'll count to twenty.",
+                            "How about a race? I bet I can beat you!"
+                        ],
+                        "Not right now, I'm busy.": [
+                            "Okay! But if you change your mind, I'll be here!",
+                            "Just remember, playing is fun!"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Edward",
+            "description": "A stern guard.",
+            "dialogues": {
+                "State your business!": {
+                    "options": {
+                        "I’m here to see the elder.": [
+                            "Only authorized people can pass. Do you have a letter?",
+                            "You may enter, but be on your best behavior!"
+                        ],
+                        "I’m just passing through.": [
+                            "Make sure to stay on the path. The woods are dangerous.",
+                            "Do you have a permit to be in this area?"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Fiona",
+            "description": "An herbalist with knowledge of potions.",
+            "dialogues": {
+                "Would you like to buy some herbs?": {
+                    "options": {
+                        "What kinds do you have?": [
+                            "I have healing herbs, potions, and even some rare ones!",
+                            "You won't find better prices anywhere in the village."
+                        ],
+                        "Can you tell me about their uses?": [
+                            "These herbs can cure many ailments, from headaches to fatigue.",
+                            "Let me know if you need something specific."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Graham",
+            "description": "A merchant always looking to trade.",
+            "dialogues": {
+                "I've got the best prices in town!": {
+                    "options": {
+                        "What are you selling?": [
+                            "Check out my wares; I have everything from tools to food.",
+                            "You might find something rare among my goods!"
+                        ],
+                        "Do you have any rare items?": [
+                            "I might have a few special items, but they come at a price.",
+                            "Come back later; I might have something new."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hannah",
+            "description": "A traveler with tales to tell.",
+            "dialogues": {
+                "I've seen many lands, do you want to hear my stories?": {
+                    "options": {
+                        "Yes, tell me about your travels!": [
+                            "I've crossed mountains and seas, and each place has its tales.",
+                            "There are some lands filled with magic and mystery!"
+                        ],
+                        "No, I'm busy looking for treasure.": [
+                            "Ah, treasure can be found in stories too, but I understand.",
+                            "Just be careful; the journey is just as important!"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Igor",
+            "description": "A mysterious stranger.",
+            "dialogues": {
+                "I know things you might find interesting.": {
+                    "options": {
+                        "What kind of things?": [
+                            "Secrets of the woods, hidden treasures, and dark tales.",
+                            "Would you like to hear a secret or perhaps a warning?"
+                        ],
+                        "Do you have any advice for me?": [
+                            "Trust no one but yourself in this world.",
+                            "Always keep your wits about you; danger lurks everywhere."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Jessica",
+            "description": "A bard who loves to sing.",
+            "dialogues": {
+                "Care for a song?": {
+                    "options": {
+                        "Yes, please!": [
+                            "This one's about heroes and their journeys.",
+                            "How about a song of love and loss?"
+                        ],
+                        "Not now, I'm looking for something else.": [
+                            "Fair enough! Let me know if you change your mind.",
+                            "Music brightens even the darkest days."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Kevin",
+            "description": "A scholar obsessed with ancient texts.",
+            "dialogues": {
+                "Have you read the latest scroll?": {
+                    "options": {
+                        "No, what's it about?": [
+                            "It's filled with knowledge of forgotten lands.",
+                            "There are tales of great heroes and their struggles."
+                        ],
+                        "Yes, it was fascinating!": [
+                            "Isn't it amazing how history shapes our world?",
+                            "There's so much to learn from the past."
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "name": "Laura",
+            "description": "A cheerful baker.",
+            "dialogues": {
+                "Would you like to taste my fresh bread?": {
+                    "options": {
+                        "Yes, please!": [
+                            "It's still warm from the oven, and it tastes amazing!",
+                            "I also have pastries if you're interested."
+                        ],
+                        "Maybe later, thank you.": [
+                            "No problem! Just remember, the best bread is fresh!",
+                            "Come back anytime for a warm treat."
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+        "traders": [
+          {
+            "name": "Oliver *Trader*",
+            "description": "A seasoned merchant specializing in exotic goods.",
+            "dialogues": {
+              "Welcome! Looking for something special?": {
+                "options": {
+                  "What do you have in stock?": [
+                    "I’ve got rare spices, fabrics, and artifacts from distant lands.",
+                    "You’ll never find a better deal for these exotic items!"
+                  ],
+                  "Can you give me a discount?": [
+                    "Ah, you're a tough negotiator! How about a small discount?",
+                    "Sorry, prices are firm, but you'll get the best quality."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Epic Sword",
+                "rarity": "epic",
+                "effect_type": "damage",
+                "value": 20,
+                "description": "A sword of epic proportions.",
+                "price": 12
+              },
+              {
+                "name": "Legendary Bow",
+                "rarity": "legendary",
+                "effect_type": "damage",
+                "value": 30,
+                "description": "A bow that shoots arrows with great precision.",
+                "price": 16
+              }
+            ]
+          },
+          {
+            "name": "Helena *Trader*",
+            "description": "A trader with a collection of ancient scrolls and magical tomes.",
+            "dialogues": {
+              "Looking for knowledge?": {
+                "options": {
+                  "Do you have magical scrolls?": [
+                    "I have scrolls with spells of fire, ice, and more.",
+                    "You'll never find such rare knowledge elsewhere."
+                  ],
+                  "How much for a tome of ancient wisdom?": [
+                    "The price is steep, but the wisdom contained is priceless.",
+                    "This knowledge could change your fate forever."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Scroll of Fireball",
+                "rarity": "rare",
+                "effect_type": "damage",
+                "value": 15,
+                "description": "A scroll that casts a powerful fireball spell.",
+                "price": 10
+              },
+              {
+                "name": "Tome of Wisdom",
+                "rarity": "legendary",
+                "effect_type": "damage",
+                "value": 50,
+                "description": "A tome filled with ancient knowledge makes you more experienced in fighting, making you stronger.",
+                "price": 40
+              }
+            ]
+          },
+          {
+            "name": "Marcus *Trader*",
+            "description": "A blacksmith with a penchant for creating powerful weapons.",
+            "dialogues": {
+              "Need a new weapon?": {
+                "options": {
+                  "What can you make for me?": [
+                    "I can craft swords, axes, and more. Only the best for a warrior like you.",
+                    "If you can pay, I can make it."
+                  ],
+                  "How about a discount for a fellow fighter?": [
+                    "I'll knock a few coins off, but don't expect too much.",
+                    "Sorry, friend, but these materials don't come cheap."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Iron Axe",
+                "rarity": "common",
+                "effect_type": "damage",
+                "value": 10,
+                "description": "A sturdy axe forged from iron.",
+                "price": 8
+              },
+              {
+                "name": "Steel Sword",
+                "rarity": "rare",
+                "effect_type": "damage",
+                "value": 18,
+                "description": "A finely crafted sword made of steel.",
+                "price": 14
+              }
+            ]
+          },
+          {
+            "name": "Selena *Trader*",
+            "description": "An alchemist who deals in potions and elixirs.",
+            "dialogues": {
+              "Welcome, care for a potion?": {
+                "options": {
+                  "What potions do you have?": [
+                    "I have potions for health, strength, and even invisibility.",
+                    "These are brewed from the finest ingredients."
+                  ],
+                  "Can you make something special?": [
+                    "If you have the right materials, I can brew anything.",
+                    "I could try, but it will cost extra."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Health Potion",
+                "rarity": "common",
+                "effect_type": "health",
+                "value": 20,
+                "description": "A potion that restores a small amount of health.",
+                "price": 5
+              },
+              {
+                "name": "Invisibility Elixir",
+                "rarity": "rare",
+                "effect_type": "damage",
+                "value": 30,
+                "description": "An elixir that grants temporary invisibility.",
+                "price": 15
+              }
+            ]
+          },
+          {
+            "name": "Gregor *Trader*",
+            "description": "A wandering trader known for his strange and unique wares.",
+            "dialogues": {
+              "Ah, a customer!": {
+                "options": {
+                  "What do you have for sale?": [
+                    "I have items you've never even heard of.",
+                    "Unique wares for a discerning customer."
+                  ],
+                  "Why are your items so strange?": [
+                    "I travel far and wide to bring the unusual.",
+                    "You won't find these in any ordinary market."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Mystic Amulet",
+                "rarity": "legendary",
+                "effect_type": "damage",
+                "value": 40,
+                "description": "An amulet with mysterious powers.",
+                "price": 35
+              },
+              {
+                "name": "Phoenix Feather",
+                "rarity": "epic",
+                "effect_type": "health",
+                "value": 25,
+                "description": "A feather from a legendary Phoenix, said to revive the wearer.",
+                "price": 18
+              }
+            ]
+          },
+          {
+            "name": "Bridget *Trader*",
+            "description": "A jeweler who crafts enchanted rings and necklaces.",
+            "dialogues": {
+              "Looking for some enchanted jewelry?": {
+                "options": {
+                  "What kind of enchantments?": [
+                    "I can craft rings that boost health, necklaces that enhance strength.",
+                    "Each piece is uniquely enchanted."
+                  ],
+                  "Can you customize a piece for me?": [
+                    "If you provide the materials, I can add any enchantment you like.",
+                    "Customization is expensive, but it's worth it."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Ring of Vitality",
+                "rarity": "rare",
+                "effect_type": "health",
+                "value": 15,
+                "description": "A ring that boosts the wearer's health.",
+                "price": 10
+              },
+              {
+                "name": "Necklace of Strength",
+                "rarity": "epic",
+                "effect_type": "damage",
+                "value": 25,
+                "description": "A necklace that enhances the wearer's strength.",
+                "price": 18
+              }
+            ]
+          },
+          {
+            "name": "Eldon *Trader*",
+            "description": "A traveling merchant who sells rare and unusual foods.",
+            "dialogues": {
+              "Hungry, traveler?": {
+                "options": {
+                  "What do you have?": [
+                    "I have rare fruits and meats from far-off lands.",
+                    "Exotic delicacies that you won’t find anywhere else."
+                  ],
+                  "Can you give me something to boost my energy?": [
+                    "I’ve got just the thing. A rare fruit that energizes the soul.",
+                    "It’s costly, but worth it."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Dragon Fruit",
+                "rarity": "rare",
+                "effect_type": "health",
+                "value": 20,
+                "description": "A rare fruit that restores health and energy.",
+                "price": 10
+              },
+              {
+                "name": "Phoenix Meat",
+                "rarity": "legendary",
+                "effect_type": "health",
+                "value": 50,
+                "description": "A rare meat that is said to revive the eater.",
+                "price": 30
+              }
+            ]
+          },
+          {
+            "name": "Isla *Trader*",
+            "description": "A potion master known for brewing rare and powerful potions.",
+            "dialogues": {
+              "Care for a potion?": {
+                "options": {
+                  "What do you have for sale?": [
+                    "I have potions that can heal, strengthen, or even make you invisible.",
+                    "My potions are made from rare ingredients."
+                  ],
+                  "Can I commission a custom potion?": [
+                    "I can brew anything, but it will cost you.",
+                    "Bring me the right ingredients, and I can create something special."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Potion of Strength",
+                "rarity": "rare",
+                "effect_type": "damage",
+                "value": 25,
+                "description": "A potion that temporarily boosts strength.",
+                "price": 15
+              },
+              {
+                "name": "Elixir of Life",
+                "rarity": "legendary",
+                "effect_type": "health",
+                "value": 50,
+                "description": "An elixir that restores most of your health.",
+                "price": 25
+              }
+            ]
+          },
+          {
+            "name": "Jonah *Trader*",
+            "description": "A blacksmith with the finest weapons and armor in the land.",
+            "dialogues": {
+              "Looking for new gear?": {
+                "options": {
+                  "What can you craft for me?": [
+                    "I can forge weapons and armor fit for a king.",
+                    "My gear will make you the strongest warrior in the land."
+                  ],
+                  "Can I trade in my old gear?": [
+                    "I’ll give you a fair price for your old equipment.",
+                    "I can always use spare parts."
+                  ]
+                }
+              }
+            },
+            "items": [
+              {
+                "name": "Mithril Armor",
+                "rarity": "epic",
+                "effect_type": "health",
+                "value": 30,
+                "description": "Armor made of Mithril, providing exceptional protection, increasing your health.",
+                "price": 25
+              },
+              {
+                "name": "Obsidian Dagger",
+                "rarity": "legendary",
+                "effect_type": "damage",
+                "value": 35,
+                "description": "A dagger made of obsidian, sharp and deadly.",
+                "price": 20
+              }
+            ]
+          }
+        ]
+      }
+      
